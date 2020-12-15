@@ -4,7 +4,7 @@ host: https://charlesbaird-dsa.github.io/standards-catalogue
 # Header-related options
 show_govuk_logo: false
 service_name: Data Standards Catalogue Catalogue
-service_link: https://charlesbaird-dsa.github.io/standards-catalogue
+service_link: https://charlesbaird-dsa.github.io/standards-catalogue/
 phase: Alpha
 
 # Links to show in the footer
