@@ -1,10 +1,10 @@
 # Host to use for canonical URL generation (without trailing slash)
-host: https://www.api.gov.uk
+host: https://charlesbaird-dsa.github.io/standards-catalogue
 
 # Header-related options
 show_govuk_logo: false
-service_name: API Catalogue
-service_link: https://www.api.gov.uk
+service_name: Data Standards Catalogue Catalogue
+service_link: https://charlesbaird-dsa.github.io/standards-catalogue
 phase: Alpha
 
 # Links to show in the footer
@@ -18,4 +18,4 @@ header_links:
 prevent_indexing: false
 
 show_contribution_banner: true
-github_repo: alphagov/api-catalogue
+github_repo: https://github.com/charlesbaird-dsa/standards-catalogue/
