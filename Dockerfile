@@ -1,7 +1,7 @@
 FROM ruby:2.7-alpine
 WORKDIR /app
 
-RUN apk add --no-cache build-base nodejs npm
+RUN apk add --no-cache build-base nodejs sqlite-dev npm
 
 COPY package.json package-lock.json /app/
 RUN npm install
