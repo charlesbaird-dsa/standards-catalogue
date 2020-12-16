@@ -1,9 +1,9 @@
 ---
-title: Data Standards Authority Catalogue
+title: Data Standards Authority
 weight: 1
 ---
 
-# UK Government Data Standards Authority
+# Data Standards Authority
 
 This catalogue is for data standards endorsed by the [Data Standards Authority](https://www.gov.uk/government/groups/data-standards-authority), as well as draft standards, guidance and use cases that the DSA produces.
 
