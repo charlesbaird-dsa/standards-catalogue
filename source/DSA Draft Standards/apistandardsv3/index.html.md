@@ -13,7 +13,7 @@ dateUpdated: 2020-12-16
 
 # API Standards v3
 
-DRAFT - The current version of the standards can be found on (GOV.UK)[https://www.gov.uk/guidance/gds-api-technical-and-data-standards]
+DRAFT - The current version of the standards can be found on [GOV.UK](https://www.gov.uk/guidance/gds-api-technical-and-data-standards)
 
 
 Doc status: In progress
