@@ -1,6 +1,6 @@
 require 'sqlite3'
 require 'csv'
-require 'FileUtils'
+require 'fileutils'
 
 def schema
   query = <<-SQL
