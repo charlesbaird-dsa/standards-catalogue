@@ -10,8 +10,8 @@ dateUpdated: 2020-12-16
 ## Description:
 The Data Standards Catalogue currently contains the following Standards:
 
-## [ukgemini/](UK Gemini)
+## [UK Gemini](UKGemini/)
 
-## [uprn/](UPRN)
+## [UPRN](UPRN/)
 
-## [openreferraluk/](OpenReferralUK)
+## [Openreferraluk](openreferraluk/)

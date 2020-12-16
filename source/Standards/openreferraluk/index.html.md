@@ -1,12 +1,12 @@
 ---
 title: OpenReferralUK
 weight: 13
-keywords:'Service Referrals'
-identifier:UK123-ZXY
-name:OpenReferralUK
-organisation:Open Referral UK
-status:Active
-startDate:2020-12-01
+keywords: 'Service Referrals'
+identifier: UK123-ZXY
+name: OpenReferralUK
+organisation: Open Referral UK
+status: Active
+startDate: 2020-12-01
 dateAdded: 2020-12-16
 dateUpdated: 2020-12-16
 ---

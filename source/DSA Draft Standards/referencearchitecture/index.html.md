@@ -2,11 +2,11 @@
 title: Reference Architecture for Government Data and APIs
 weight: 302
 keywords: 'Reference Architecture'
-identifier:DSA-001
-name:ReferenceArchitecture
-organisation:Data Standards Authority
-status:Active
-startDate:2020-10-01
+identifier: DSA-001
+name: ReferenceArchitecture
+organisation: Data Standards Authority
+status: Active
+startDate: 2020-10-01
 dateAdded: 2020-12-16
 dateUpdated: 2020-12-16
 ---

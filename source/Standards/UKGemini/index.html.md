@@ -1,18 +1,15 @@
 ---
 title: UK Gemini
 weight: 11
-keywords:Semantics
-identifier:UK-123
-isRelatedTo:ISO 19139
-name:UK Gemini
-supersededBy:2.3
-organisation:Geospatial Commission
-validFrom:Jun-18
-validThrough:
-status:Active
-dateModified:
-startDate:2020-12-01
-endDate:
+keywords: Semantics
+identifier: UK-123
+isRelatedTo: ISO 19139
+name: UK Gemini
+supersededBy: 2.3
+organisation: Geospatial Commission
+validFrom: Jun-18
+status: Active
+startDate: 2020-12-01
 dateAdded: 2020-12-16
 dateUpdated: 2020-12-16
 ---
@@ -38,7 +35,7 @@ dateUpdated: 2020-12-16
  - 2.3
  
 ## Related to:
- - [https://www.iso.org/standard/32557.html](ISO 19139)
+ - [ISO 19139](https://www.iso.org/standard/32557.html)
  
 ## Use Case:
  - [https://www.agi.org.uk/agi-groups/standards-committee/why-uk-gemini-why-not-just-have-the-inspire-technical-guidance](https://www.agi.org.uk/agi-groups/standards-committee/why-uk-gemini-why-not-just-have-the-inspire-technical-guidance)

@@ -2,11 +2,11 @@
 title: API Standards v3
 weight: 301
 keywords: 'API Standards'
-identifier:DSA-002
-name:API Standards v3
-organisation:Data Standards Authority
-status:Active
-startDate:2020-12-01
+identifier: DSA-002
+name: API Standards v3
+organisation: Data Standards Authority
+status: Active
+startDate: 2020-12-01
 dateAdded: 2020-12-16
 dateUpdated: 2020-12-16
 ---

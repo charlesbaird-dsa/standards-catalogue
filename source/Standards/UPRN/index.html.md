@@ -1,14 +1,14 @@
 ---
 title: UPRN
 weight: 12
-keywords:Identification, geospatial
-identifier:UKABC-123
-isRelatedTo:BS 7666-2:2006
-name:UPRN
-organisation:Ordnance Survey
-validFrom:2020-07-1
-status:Active
-startDate:2020-12-02
+keywords: Identification, geospatial
+identifier: UKABC-123
+isRelatedTo: BS 7666-2:2006
+name: UPRN
+organisation: Ordnance Survey
+validFrom: 2020-07-1
+status: Active
+startDate: 2020-12-02
 dateAdded: 2020-12-16
 dateUpdated: 2020-12-16
 ---
