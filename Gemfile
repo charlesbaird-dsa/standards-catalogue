@@ -10,6 +10,8 @@ gem "wdm", "~> 0.1.0", platforms: %i[mswin mingw]
 # Windows does not come with time zone data
 gem "tzinfo-data", platforms: %i[mswin mingw jruby]
 
+gem "sqlite3"
+
 # For data attributes
 gem "activemodel"
 
