@@ -1,6 +1,3 @@
-require "lib/api_catalogue_overview"
-require "lib/api_catalogue"
-require "lib/dashboard_stats"
 require "lib/url_helpers"
 
 ### Config from tech-docs-gem: start ###
@@ -20,7 +17,6 @@ require "lib/govuk_tech_docs/unique_identifier_generator"
 
 # Project setup
 project_name = "standards-catalogue"
-
 
 activate :sprockets
 
@@ -42,7 +38,6 @@ set :markdown,
 configure :development do
   activate :livereload
 end
-
 
 set(:govuk_assets_path, "/assets/govuk/assets/")
 
