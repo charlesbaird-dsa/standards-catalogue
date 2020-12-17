@@ -47,7 +47,6 @@ GEM
     fast_blank (1.0.0)
     fastimage (2.2.0)
     ffi (1.13.1)
-    fileutils (1.4.1)
     haml (5.2.0)
       temple (>= 0.8.0)
       tilt
@@ -205,7 +204,6 @@ DEPENDENCIES
   activemodel
   activesupport
   factory_bot
-  fileutils
   middleman (~> 4.0)
   middleman-autoprefixer
   middleman-compass
