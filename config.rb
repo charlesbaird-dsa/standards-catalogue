@@ -18,7 +18,6 @@ require "lib/govuk_tech_docs/unique_identifier_generator"
 # Project setup
 project_name = "standards-catalogue"
 
-
 activate :sprockets
 
 sprockets.append_path File.expand_path("node_modules", __dir__)
@@ -39,7 +38,6 @@ set :markdown,
 configure :development do
   activate :livereload
 end
-
 
 set(:govuk_assets_path, "/assets/govuk/assets/")
 
