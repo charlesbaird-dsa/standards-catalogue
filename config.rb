@@ -39,6 +39,16 @@ configure :development do
   activate :livereload
 end
 
+
+set(:govuk_assets_path, "/assets/govuk/assets/")
+
+# Add '/api-catalogue/' for 'middleman build', for Github Pages compatibility
+configure :build do
+  set(:build_dir, "build/standards-catalogue")
+  set(:http_prefix, "/standards-catalogue/")
+  set(:govuk_assets_path, "/standards-catalogue/assets/govuk/assets/")
+end
+
 configure :build do
   activate :autoprefixer
   activate :minify_javascript, ignore: ["/raw_assets/*"]
@@ -123,16 +133,16 @@ api_catalogue.organisations_apis.each.with_index(initial_org_weight) do |(organi
   end
 end
 
-proxy(
-  "/dashboard/index.html",
-  "dashboard.html",
-  locals: { dashboard_stats: DashboardStats.new(api_catalogue) },
-  ignore: true,
-)
+# proxy(
+#   "/dashboard/index.html",
+#   "dashboard.html",
+#   locals: { dashboard_stats: DashboardStats.new(api_catalogue) },
+#   ignore: true,
+# )
 
-proxy(
-  "/index/index.html",
-  "overview_index.html",
-  locals: { overview: ApiCatalogueOverview.new(api_catalogue) },
-  ignore: true,
-)
+# proxy(
+#   "/index/index.html",
+#   "overview_index.html",
+#   locals: { overview: ApiCatalogueOverview.new(api_catalogue) },
+#   ignore: true,
+# )
