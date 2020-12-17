@@ -1,6 +1,3 @@
-require "lib/api_catalogue_overview"
-require "lib/api_catalogue"
-require "lib/dashboard_stats"
 require "lib/url_helpers"
 
 ### Config from tech-docs-gem: start ###
