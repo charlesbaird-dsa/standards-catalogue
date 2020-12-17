@@ -45,8 +45,10 @@ What is the scope of this piece of work?
 - Will not include:
 
 Page URL/published location:
-- [https://www.gov.uk/guidance/gds-api-technical-and-data-standards(https://www.gov.uk/guidance/gds-api-technical-and-data-standards)
+- [https://www.gov.uk/guidance/gds-api-technical-and-data-standards](https://www.gov.uk/guidance/gds-api-technical-and-data-standards)
+
 Comments/notes:
+
 Annotate the page with these metadata tags: 'API Standards'
 
 *---*
