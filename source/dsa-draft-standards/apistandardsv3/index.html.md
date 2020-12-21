@@ -89,7 +89,7 @@ Adding HTTPS will secure connections to your API, preserve user privacy, ensure 
 
 The [Service Manual provides more guidance on HTTPS](https://www.gov.uk/service-manual/technology/using-https).
 
-Secure APIs using Transport Layer Security (TLS) v1.2. Do not use Secure Sockets Layer (SSL) or TLS v1.0.
+Secure APIs using Transport Layer Security (TLS) v1.2. Do not use Secure Sockets Layer (SSL) or older versions of TLS.
 
 There are multiple free and low-cost vendors that offer TLS certificates.
 
@@ -130,7 +130,7 @@ We recommend you should:
 
 -   avoid unpredictable object keys such as those derived from data as this adds friction for clients
 
--   use consistent grammar case for object keys - choose under_score or CamelCase and be consistent
+-   use consistent grammar case for object keys - choose snake_case or camelCase and be consistent
 
 ## To represent time and date
 
@@ -242,7 +242,7 @@ Using a record-by-record data API query to perform the same action would be subo
 
 -   if the dataset is being updated at the same time with the record-by-record download, users may get inconsistent records
 
-If you allow a user to download an entire dataset, you should consider providing a way for them to keep it up to date. For example you could live stream your data or notify them that new data is available so that API consumers know to download you API data periodically.
+If you allow a user to download an entire dataset, you should consider providing a way for them to keep it up to date. For example you could live stream your data or notify them that new data is available so that API consumers know to download your API data periodically.
 
 ## Encourage users to keep local dataset copies up to date
 
