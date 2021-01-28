@@ -87,9 +87,7 @@ others.
 
 Reference data should be published in a way to make it:
 
--   always accessible and up-to-date, maximising its usefulness and
-    > avoiding potentially costly decision-making with outdated
-    > reference data
+-   always accessible and up-to-date, maximising its usefulness and avoiding potentially costly decision-making with outdated reference data
 
 -   validated and accurate at any point in time, with a history of
     > changes maintained, and expired versions still available for
