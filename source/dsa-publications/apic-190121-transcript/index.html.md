@@ -177,8 +177,8 @@ doing some proof of concept peer reviews, so we've got a few volunteers
 with APIs, we want them to be reviewed. We've got some volunteer
 architects from across government. And, side note, we're always looking
 for more, so if there's anyone on this call or in this group who'd like
-to be on our panel of assessors, please drop me a line, either on Slack
-- yet another pitch - or I think most of you have got my email address
+to be on our panel of assessors, please drop me a line, either on Slack, 
+yet another pitch, or I think most of you have got my email address
 by now, but let me know if not, and I will share it.
 
 Yeah, so the first process is going to be peer review sessions with
