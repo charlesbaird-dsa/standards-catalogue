@@ -29,8 +29,8 @@ the moment. Last time I spoke about the API catalogue, I think, probably
 for maybe half the people here, I have bent your ears over the last few
 months about the API catalogue. I won't only bang on about that today
 but there will be something about that later. But we have expanded how
-we think about - I'm going to say "offering" a lot today so I apologise
-- we've expanded the offering around APIs, and we've tried to make it a
+we think about - I'm going to say "offering" a lot today so I apologise,
+we've expanded the offering around APIs, and we've tried to make it a
 little bit more comprehensive, so I'm just going to take you through
 that today.
 
