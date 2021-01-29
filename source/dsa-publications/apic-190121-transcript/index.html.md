@@ -1000,7 +1000,7 @@ HMRC and just to hear a bit more about it.
 
 ### API Management Platforms - Build or Buy?
 
-Katie Longstaff
+**Katie Longstaff**
 
 So, yeah, I mean that the process you mentioned, we were working on
 since right at the beginning of our journey when we released our
@@ -1050,11 +1050,11 @@ steps that we have in place because it might just make it easier for
 people to sort of visualise. So you should be able to see that now. Can
 you see the screen?
 
-Audience
+**Audience**
 
 Yeah. Yep. Yeah.
 
-Katie Longstaff
+**Katie Longstaff**
 
 Cool. So we'd call this our technical review acceptance process and what
 we put in place was a set number of things that people need to complete
