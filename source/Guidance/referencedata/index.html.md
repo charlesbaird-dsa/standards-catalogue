@@ -1,3 +1,16 @@
+---
+title: Publish reference data for use across government
+weight: 303
+keywords: 'Reference Data/
+identifier: DSA-002
+name: ReferenceArchitecture
+organisation: Data Standards Authority
+status: Active
+startDate: 2021-01-22
+dateAdded: 2021-01-27
+dateUpdated: 2021-02-01
+---
+
 <table>
 <thead>
 <tr class="header">
