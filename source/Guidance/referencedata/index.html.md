@@ -1,3 +1,22 @@
+---
+title: Publish reference data for use across government
+weight: 303
+keywords: 'Reference Data'
+identifier: DSA-002
+name: ReferenceArchitecture
+organisation: Data Standards Authority
+status: Active
+startDate: 2021-01-22
+dateAdded: 2021-01-27
+dateUpdated: 2021-02-01
+---
+
+## DRAFT Publish reference data for use across government DRAFT
+
+
+_This is a DRAFT document for discussion. This is not finalised. All aspects of this document are subject to change. Please leave comments on any aspect of it._
+
+
 <table>
 <thead>
 <tr class="header">
@@ -56,9 +75,9 @@
 </tbody>
 </table>
 
-# Publish reference data for use across government
 
 #### Share your reference data for use in projects and services outside your organisation
+
 
 ## Who should use this guidance 
 
