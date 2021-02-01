@@ -1,7 +1,7 @@
 ---
 title: Publish reference data for use across government
 weight: 303
-keywords: 'Reference Data/
+keywords: 'Reference Data'
 identifier: DSA-002
 name: ReferenceArchitecture
 organisation: Data Standards Authority
@@ -10,6 +10,11 @@ startDate: 2021-01-22
 dateAdded: 2021-01-27
 dateUpdated: 2021-02-01
 ---
+
+## DRAFT Publish reference data for use across government DRAFT
+
+
+_This is a DRAFT document for discussion. This is not finalised. All aspects of this document are subject to change. Please leave comments on any aspect of it._
 
 
 <table>
@@ -72,11 +77,9 @@ dateUpdated: 2021-02-01
 </table>
 
 
-Publish reference data for use across government
+# Share your reference data for use in projects and services outside your organisation
 
-### Share your reference data for use in projects and services outside your organisation
-
-# Who should use this guidance 
+## Who should use this guidance 
 
 This guidance is for government employees who are publishing reference
 data for the use of others in government. It shares the best practice
@@ -93,7 +96,7 @@ codes</u>](https://www.iso.org/iso-3166-country-codes.html), which are
 an internationally recognised set of codes that can be used to refer to
 countries and their subdivisions.
 
-# Define a reference data publishing strategy
+## Define a reference data publishing strategy
 
 Reference data is a valuable asset which can inform and aid user
 decisions. Publishing it for the use of others across government is an
