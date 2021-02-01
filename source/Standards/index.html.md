@@ -10,8 +10,13 @@ dateUpdated: 2020-12-16
 ## Description:
 The Data Standards Catalogue currently contains the following Standards:
 
-### [UK Gemini](UKGemini/)
+| Name | Status |
+| --- | ---|
 
-### [UPRN](UPRN/)
+| [UK Gemini](UKGemini/) | Endorsed |
 
-### [Openreferraluk](openreferraluk/)
+| [UPRN](UPRN/) | Endorsed |
+
+| [Openreferraluk](openreferraluk/) | Endorsed |
+
+| [UK Government API Standards v3](apistandardsv3/) | Draft |
