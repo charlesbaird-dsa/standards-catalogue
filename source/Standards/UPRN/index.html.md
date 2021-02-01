@@ -1,6 +1,6 @@
 ---
 title: UPRN
-weight: 12
+weight: 150
 keywords: Identification, geospatial
 identifier: UKABC-123
 isRelatedTo: BS 7666-2:2006
