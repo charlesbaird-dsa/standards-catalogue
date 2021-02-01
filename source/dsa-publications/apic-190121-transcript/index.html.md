@@ -1,11 +1,15 @@
+=======
+title: Transcript of API Community Workshop, 19th January 2021
+weight: 502
+keywords: 'APIs' 'API Community'
+identifier: DSA-006
+name: APICommunityJan21Transcript
+organisation: Data Standards Authority
+status: Active
+startDate: 2021-01-19
+dateAdded: 2021-01-29
+dateUpdated: 2021-01-29
 ---
-title: Transcript of API and Data Exchange Community Event, 19/01/2021
-keywords: API and Data Exchange Community Event, 19/01/2021
-weight: 510
-dateAdded: 2021-01-28
-dateUpdated: 2021-02-01
----
-
 
 # API & Data Exchange Community Event, 19/01/2021
 
@@ -25,8 +29,8 @@ the moment. Last time I spoke about the API catalogue, I think, probably
 for maybe half the people here, I have bent your ears over the last few
 months about the API catalogue. I won't only bang on about that today
 but there will be something about that later. But we have expanded how
-we think about - I'm going to say "offering" a lot today so I apologise
-- we've expanded the offering around APIs, and we've tried to make it a
+we think about - I'm going to say "offering" a lot today so I apologise,
+we've expanded the offering around APIs, and we've tried to make it a
 little bit more comprehensive, so I'm just going to take you through
 that today.
 
@@ -173,8 +177,8 @@ doing some proof of concept peer reviews, so we've got a few volunteers
 with APIs, we want them to be reviewed. We've got some volunteer
 architects from across government. And, side note, we're always looking
 for more, so if there's anyone on this call or in this group who'd like
-to be on our panel of assessors, please drop me a line, either on Slack
-- yet another pitch - or I think most of you have got my email address
+to be on our panel of assessors, please drop me a line, either on Slack, 
+yet another pitch, or I think most of you have got my email address
 by now, but let me know if not, and I will share it.
 
 Yeah, so the first process is going to be peer review sessions with
@@ -996,7 +1000,7 @@ HMRC and just to hear a bit more about it.
 
 ### API Management Platforms - Build or Buy?
 
-Katie Longstaff
+**Katie Longstaff**
 
 So, yeah, I mean that the process you mentioned, we were working on
 since right at the beginning of our journey when we released our
@@ -1046,11 +1050,11 @@ steps that we have in place because it might just make it easier for
 people to sort of visualise. So you should be able to see that now. Can
 you see the screen?
 
-Audience
+**Audience**
 
 Yeah. Yep. Yeah.
 
-Katie Longstaff
+**Katie Longstaff**
 
 Cool. So we'd call this our technical review acceptance process and what
 we put in place was a set number of things that people need to complete
