@@ -1,3 +1,12 @@
+---
+title: Transcript of API and Data Exchange Community Event, 19/01/2021
+keywords: API and Data Exchange Community Event, 19/01/2021
+weight: 510
+dateAdded: 2021-01-28
+dateUpdated: 2021-02-01
+---
+
+
 # API & Data Exchange Community Event, 19/01/2021
 
 # 

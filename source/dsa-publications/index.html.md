@@ -1,13 +1,13 @@
 ---
-title: DSA Guidance
-weight: 200
-dateAdded: 2020-12-16
-dateUpdated: 2020-12-16
+title: DSA Publications
+weight: 500
+dateAdded: 2021-01-28
+dateUpdated: 2021-02-01
 ---
 
-# DSA Guidance
+# DSA Publications:
 
 ## Description:
-These pieces of guidance are in development by the Data Standards Authority. We welcome your feedback on them, please open an issue from the link on the relevant page to add your comments. The following documents are currently open:
+These are documents produced by the Data Standards Authority
 
-### [UK Government Reference Architecture for Data and APIs](referencearchitecture/)
+### [Transcript of the API and Data Exchange Community Workshop, January 2021](apic-190121-transcript/)
