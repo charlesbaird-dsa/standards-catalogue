@@ -1,19 +1,17 @@
-=======
+---
 title: Transcript of API Community Workshop, 19th January 2021
 weight: 502
-keywords: 'APIs' 'API Community'
+keywords: APIs, 'API Community'
 identifier: DSA-006
 name: APICommunityJan21Transcript
 organisation: Data Standards Authority
 status: Active
 startDate: 2021-01-19
 dateAdded: 2021-01-29
-dateUpdated: 2021-01-29
+dateUpdated: 2021-02-01
 ---
 
 # API & Data Exchange Community Event, 19/01/2021
-
-# 
 
 ## 1. DSA API Programme (Charles Baird, Data Standards Authority)
 
