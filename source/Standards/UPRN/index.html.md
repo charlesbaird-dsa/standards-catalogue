@@ -4,6 +4,7 @@ weight: 150
 name: UPRN
 organisation: Ordnance Survey
 identifier: UKABC-123
+link: https://www.gov.uk/government/publications/open-standards-for-government/identifying-property-and-street-information
 keywords: Identification, geospatial
 isRelatedTo: BS 7666-2:2006
 validFrom: 2020-07-1
@@ -14,18 +15,18 @@ dateUpdated: 2020-12-16
 
 # UPRN
 
-## Description:
 UPRN stands for Unique Property Reference Number and was created by the Ordnance Survey (OS). It consists of numbers of up to 12 digits in length. Local governments in the UK have allocated a unique number for each land or property.
 
-| organisation: | **Ordnance Survey** |
+| Organisation: | **Ordnance Survey** |
 | --- | ---|
-| identifier: | **UKABC-123** |
-| keywords: | **Identification, geospatial** |
-| isRelatedTo:  | **[BS7666-2:2006](https://shop.bsigroup.com/ProductDetail?pid=000000000030127196)** |
-| validFrom: | **2020-07-1** |
+| Identifier: | **UKABC-123** |
+| Link: | **[GOV.UK](https://www.gov.uk/government/publications/open-standards-for-government/identifying-property-and-street-information)** |
+| Keywords: | **Identification, geospatial** |
+| Related To:  | **[BS7666-2:2006](https://shop.bsigroup.com/ProductDetail?pid=000000000030127196)** |
+| Valid From: | **2020-07-1** |
 | status: | **Active** |
 | dateAdded: | **2020-12-16** |
-| dateUpdated: | **2020-12-16** |
+| dateUpdated: | **2021-02-02** |
 
 
 ## Use Cases:
