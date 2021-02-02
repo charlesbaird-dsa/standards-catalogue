@@ -1,38 +1,33 @@
 ---
 title: UPRN
 weight: 150
-keywords: Identification, geospatial
-identifier: UKABC-123
-isRelatedTo: BS 7666-2:2006
 name: UPRN
 organisation: Ordnance Survey
+identifier: UKABC-123
+keywords: Identification, geospatial
+isRelatedTo: BS 7666-2:2006
 validFrom: 2020-07-1
 status: Active
-startDate: 2020-12-02
 dateAdded: 2020-12-16
 dateUpdated: 2020-12-16
 ---
 
 # UPRN
 
-## Organisation:
- - Ordnance Survey
-
 ## Description:
  - UPRN stands for Unique Property Reference Number and was created by the Ordnance Survey (OS). It consists of numbers of up to 12 digits in length. Local governments in the UK have allocated a unique number for each land or property.
 
-## Valid From:
- - 01/07/2020
+| organisation: | **Ordnance Survey** |
+| --- | ---|
+| identifier: | **UKABC-123** |
+| keywords: | **Identification, geospatial** |
+| isRelatedTo:  | **[BS7666-2:2006](https://shop.bsigroup.com/ProductDetail?pid=000000000030127196)** |
+| validFrom: | **2020-07-1** |
+| status: | **Active** |
+| dateAdded: | **2020-12-16** |
+| dateUpdated: | **2020-12-16** |
 
-## Status:
- - Active
 
-## Start Date:
- - 02/12/2020
-
-## Related to:
-[https://shop.bsigroup.com/ProductDetail?pid=000000000030127196](BS 7666-2:2006)
- 
 ## Use Cases:
  - [https://www.geoplace.co.uk/addresses-streets/addresses/the-uprn](https://www.geoplace.co.uk/addresses-streets/addresses/the-uprn)
   - [https://www.geoplace.co.uk/downloads/Linking-People-to-Places-with-Unique-Identifiers.pdf](https://www.geoplace.co.uk/downloads/Linking-People-to-Places-with-Unique-Identifiers.pdf)
