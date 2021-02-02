@@ -29,19 +29,19 @@ UPRN stands for Unique Property Reference Number and was created by the Ordnance
 
 
 ## Use Cases:
- - [https://www.geoplace.co.uk/addresses-streets/addresses/the-uprn](https://www.geoplace.co.uk/addresses-streets/addresses/the-uprn)
-  - [https://www.geoplace.co.uk/downloads/Linking-People-to-Places-with-Unique-Identifiers.pdf](https://www.geoplace.co.uk/downloads/Linking-People-to-Places-with-Unique-Identifiers.pdf)
+- [https://www.geoplace.co.uk/addresses-streets/addresses/the-uprn](https://www.geoplace.co.uk/addresses-streets/addresses/the-uprn)
+- [https://www.geoplace.co.uk/downloads/Linking-People-to-Places-with-Unique-Identifiers.pdf](https://www.geoplace.co.uk/downloads/Linking-People-to-Places-with-Unique-Identifiers.pdf)
 
 ## Case Studies:
-  - [https://blog.geo.place/2020/03/26/what-can-food-hygiene-tell-us-about-fire-safety/](https://blog.geo.place/2020/03/26/what-can-food-hygiene-tell-us-about-fire-safety/)
-  - [https://www.ukauthority.com/articles/connecting-fire-and-flood-risk-with-place-through-uprns/](https://www.ukauthority.com/articles/connecting-fire-and-flood-risk-with-place-through-uprns/)
- - [https://www.geoplace.co.uk/addresses-streets/addresses/addressing-in-the-uk](https://www.geoplace.co.uk/addresses-streets/addresses/addressing-in-the-uk)
- - [https://www.geoplace.co.uk/downloads/Address-and-street-data-a-common-standard-for-digital-transformation.pdf](https://www.geoplace.co.uk/downloads/Address-and-street-data-a-common-standard-for-digital-transformation.pdf)
- - [https://www.ordnancesurvey.co.uk/business-government/products/addressbase-premium](https://www.ordnancesurvey.co.uk/business-government/products/addressbase-premium)
+- [https://blog.geo.place/2020/03/26/what-can-food-hygiene-tell-us-about-fire-safety/](https://blog.geo.place/2020/03/26/what-can-food-hygiene-tell-us-about-fire-safety/)
+- [https://www.ukauthority.com/articles/connecting-fire-and-flood-risk-with-place-through-uprns/](https://www.ukauthority.com/articles/connecting-fire-and-flood-risk-with-place-through-uprns/)
+- [https://www.geoplace.co.uk/addresses-streets/addresses/addressing-in-the-uk](https://www.geoplace.co.uk/addresses-streets/addresses/addressing-in-the-uk)
+- [https://www.geoplace.co.uk/downloads/Address-and-street-data-a-common-standard-for-digital-transformation.pdf](https://www.geoplace.co.uk/downloads/Address-and-street-data-a-common-standard-for-digital-transformation.pdf)
+- [https://www.ordnancesurvey.co.uk/business-government/products/addressbase-premium](https://www.ordnancesurvey.co.uk/business-government/products/addressbase-premium)
 
 ## Guidance:
- - [https://www.ordnancesurvey.co.uk/business-government/tools-support/open-mastermap-programme/open-id-policy](https://www.ordnancesurvey.co.uk/business-government/tools-support/open-mastermap-programme/open-id-policy)
+- [https://www.ordnancesurvey.co.uk/business-government/tools-support/open-mastermap-programme/open-id-policy](https://www.ordnancesurvey.co.uk/business-government/tools-support/open-mastermap-programme/open-id-policy)
 
 ## How To:
- - [https://uprn.uk/](https://uprn.uk/)
- - [https://s3.eu-west-1.amazonaws.com/static.geoplace.co.uk/downloads/British-Standard-7666-2006.pdf?version=1.1](https://s3.eu-west-1.amazonaws.com/static.geoplace.co.uk/downloads/British-Standard-7666-2006.pdf?version=1.1)
+- [https://uprn.uk/](https://uprn.uk/)
+- [https://s3.eu-west-1.amazonaws.com/static.geoplace.co.uk/downloads/British-Standard-7666-2006.pdf?version=1.1](https://s3.eu-west-1.amazonaws.com/static.geoplace.co.uk/downloads/British-Standard-7666-2006.pdf?version=1.1)
