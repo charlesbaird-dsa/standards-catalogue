@@ -1,5 +1,5 @@
 ---
-title: Data Standards
+title: Standards Catalogue
 weight: 100
 dateAdded: 2020-12-16
 dateUpdated: 2020-12-16
