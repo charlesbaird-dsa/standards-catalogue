@@ -1,6 +1,6 @@
 ---
 title: UPRN
-weight: 150
+weight: 135
 name: UPRN
 organisation: Ordnance Survey
 identifier: UKABC-123
